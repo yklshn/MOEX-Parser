@@ -1,0 +1,45 @@
+1660734109755	geckodriver	INFO	Listening on 127.0.0.1:50112
+1660734112848	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50113" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\yklsh\\AppData\\Local\\Temp\\rust_mozprofilej09EFY"
+1660734113489	Marionette	INFO	Marionette enabled
+1660734113493	Marionette	INFO	Listening on port 50125
+WebDriver BiDi listening on ws://localhost:50113
+Read port: 50125
+1660734113616	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yklsh\\AppData\\Local\\Temp\\rust_mozprofilej09EFY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50113/devtools/browser/8d8a9bcb-be77-4a72-92df-e8c409fd1c65
+1660734120859	Marionette	INFO	Stopped listening on port 50125
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660734441329	geckodriver	INFO	Listening on 127.0.0.1:50306
+1660734444430	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50307" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\yklsh\\AppData\\Local\\Temp\\rust_mozprofilezZzXSn"
+1660734444751	Marionette	INFO	Marionette enabled
+1660734444754	Marionette	INFO	Listening on port 50316
+WebDriver BiDi listening on ws://localhost:50307
+Read port: 50316
+1660734444901	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yklsh\\AppData\\Local\\Temp\\rust_mozprofilezZzXSn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50307/devtools/browser/1e7761d3-0dfc-4261-aa77-ab0e48a9bef7
+1660735207199	Marionette	INFO	Stopped listening on port 50316
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 5408, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+l\\Temp\\rust_mozprofileyFDOsV"
+1660734703981	Marionette	INFO	Marionette enabled
+1660734703984	Marionette	INFO	Listening on port 50417
+WebDriver BiDi listening on ws://localhost:50406
+Read port: 50417
+1660734704138	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yklsh\\AppData\\Local\\Temp\\rust_mozprofileyFDOsV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50406/devtools/browser/57344aa7-c287-4e45-856a-3f91fb2cc1eb
+1660734718241	Marionette	INFO	Stopped listening on port 50417
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660734879718	geckodriver	INFO	Listening on 127.0.0.1:50526
+1660734882817	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50527" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\yklsh\\AppData\\Local\\Temp\\rust_mozprofileoQxB64"
+1660734883120	Marionette	INFO	Marionette enabled
+1660734883124	Marionette	INFO	Listening on port 50538
+WebDriver BiDi listening on ws://localhost:50527
+Read port: 50538
+1660734883221	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yklsh\\AppData\\Local\\Temp\\rust_mozprofileoQxB64\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50527/devtools/browser/92bdfeff-ab7f-4f87-85f2-27408eaafa9b
+1660734885927	Marionette	INFO	Stopped listening on port 50538
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/TerminatorTelemetry.jsm, line 69: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
