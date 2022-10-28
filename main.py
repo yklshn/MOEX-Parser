@@ -11,12 +11,13 @@ import smtplib
 from openpyxl.styles.numbers import BUILTIN_FORMATS
 
 
-driver = webdriver.Firefox()
-driver.get("https://yandex.ru/")
-driver.find_element_by_link_text("USD MOEX").click()
-driver.back()
-driver.find_element_by_link_text("EUR MOEX").click()
-driver.back()
+#driver = webdriver.Firefox()
+#driver.get("https://yandex.ru/")
+#driver.find_element_by_link_text("USD MOEX").click()
+#driver.back()
+#driver.find_element_by_link_text("EUR MOEX").click()
+#driver.back()
+
 
 USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ' \
              'Chrome/103.0.0.0 Safari/537.36'
