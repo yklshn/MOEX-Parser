@@ -25,8 +25,8 @@ USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM
 
 FN_RESULT = '{}_result.xlsx'
 
-USD_URL = 'https://yandex.ru/news/quotes/2002.html'
-EUR_URL = 'https://yandex.ru/news/quotes/2000.html'
+#USD_URL = 'https://yandex.ru/news/quotes/2002.html'
+#EUR_URL = 'https://yandex.ru/news/quotes/2000.html'
 
 PAUSE_NEXT = 10  # пауза перед следующей валютой (чтобы снизить вероятность появления капчи)
 RATIO_ROUND_DIGIT = 3  # сколько символов в соотношеии цены
